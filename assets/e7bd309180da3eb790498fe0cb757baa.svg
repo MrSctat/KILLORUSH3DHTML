@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="43.112675070762634" height="44.915470480918884" viewBox="-0.40633638948202133 0.44366365671157837 43.112675070762634 44.915470480918884">
+  <defs>
+    <radialGradient id="grad_1" cx="0.5121" cy="0.48210000000000003" r="0.67327">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="grad_2" cx="0.4667" cy="0.22089999999999999" r="1.0128300000000001">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF95E4" stop-opacity="1"/>
+    </radialGradient>
+  <radialGradient id="grad_1-.012672781944275,0,0,1.012672781944275,-222.75,-147.15" cx="21.6076" cy="41.9158" r="14.1921" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient><radialGradient id="grad_2-,0,0,1,-227.9,-161.05" cx="19.7481" cy="10.2499" r="42.6401" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF95E4" stop-opacity="1"/>
+    </radialGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.729830018710345" fill="url(#grad_1-.012672781944275,0,0,1.012672781944275,-222.75,-147.15)" stroke="none" d="M 21.2535 39.1818 C 25.291 39.1818 28.9488 39.4998 31.598 40.0132 C 34.2471 40.5266 35.8866 41.2355 35.8866 42.0173 C 35.8866 42.7991 34.2471 43.5079 31.598 44.0214 C 28.9488 44.5348 25.291 44.8528 21.2535 44.8528 C 17.216 44.8528 13.5582 44.5348 10.9091 44.0214 C 8.2599 43.5079 6.6204 42.7991 6.6204 42.0173 C 6.6204 41.2355 8.2599 40.5266 10.9091 40.0132 C 13.5582 39.4998 17.216 39.1818 21.2535 39.1818 Z " stroke-width="1.012672781944275"/>
+  <path id="ID0.2954840208403766" fill="url(#grad_2-,0,0,1,-227.9,-161.05)" stroke="none" d="M 21.15 0.95 C 26.958 0.95 32.22 3.309 36.031 7.119 C 39.841 10.93 42.2 16.192 42.2 22 C 42.2 27.808 39.841 33.07 36.031 36.881 C 32.22 40.691 26.958 43.05 21.15 43.05 C 15.342 43.05 10.08 40.691 6.269 36.881 C 2.459 33.07 0.1 27.808 0.1 22 C 0.1 16.192 2.459 10.93 6.269 7.119 C 10.08 3.309 15.342 0.95 21.15 0.95 Z " stroke-width="1"/>
+</svg>
